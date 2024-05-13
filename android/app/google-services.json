@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23381028292",
+    "project_id": "sneakerx-6dbc9",
+    "storage_bucket": "sneakerx-6dbc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23381028292:android:ac7be728aef68bb01d0891",
+        "android_client_info": {
+          "package_name": "com.bigetron.sneakerx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtv457SQoS-CZshsi8ha9pKBX9LPTIqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
